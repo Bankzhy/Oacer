@@ -1,0 +1,1738 @@
+fileFormatVersion: 2
+guid: df0221e15e72f114d8ea4adf2202123d
+timeCreated: 1474792881
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Heroes of Might and Magic 2 - Vampire_0
+    21300002: PC Computer - Heroes of Might and Magic 2 - Vampire_1
+    21300004: PC Computer - Heroes of Might and Magic 2 - Vampire_2
+    21300006: PC Computer - Heroes of Might and Magic 2 - Vampire_3
+    21300008: PC Computer - Heroes of Might and Magic 2 - Vampire_4
+    21300010: PC Computer - Heroes of Might and Magic 2 - Vampire_5
+    21300012: PC Computer - Heroes of Might and Magic 2 - Vampire_6
+    21300014: PC Computer - Heroes of Might and Magic 2 - Vampire_7
+    21300016: PC Computer - Heroes of Might and Magic 2 - Vampire_8
+    21300018: PC Computer - Heroes of Might and Magic 2 - Vampire_9
+    21300020: PC Computer - Heroes of Might and Magic 2 - Vampire_10
+    21300022: PC Computer - Heroes of Might and Magic 2 - Vampire_11
+    21300024: PC Computer - Heroes of Might and Magic 2 - Vampire_12
+    21300026: PC Computer - Heroes of Might and Magic 2 - Vampire_13
+    21300028: PC Computer - Heroes of Might and Magic 2 - Vampire_14
+    21300030: PC Computer - Heroes of Might and Magic 2 - Vampire_15
+    21300032: PC Computer - Heroes of Might and Magic 2 - Vampire_16
+    21300034: PC Computer - Heroes of Might and Magic 2 - Vampire_17
+    21300036: PC Computer - Heroes of Might and Magic 2 - Vampire_18
+    21300038: PC Computer - Heroes of Might and Magic 2 - Vampire_19
+    21300040: PC Computer - Heroes of Might and Magic 2 - Vampire_20
+    21300042: PC Computer - Heroes of Might and Magic 2 - Vampire_21
+    21300044: PC Computer - Heroes of Might and Magic 2 - Vampire_22
+    21300046: PC Computer - Heroes of Might and Magic 2 - Vampire_23
+    21300048: PC Computer - Heroes of Might and Magic 2 - Vampire_24
+    21300050: PC Computer - Heroes of Might and Magic 2 - Vampire_25
+    21300052: PC Computer - Heroes of Might and Magic 2 - Vampire_26
+    21300054: PC Computer - Heroes of Might and Magic 2 - Vampire_27
+    21300056: PC Computer - Heroes of Might and Magic 2 - Vampire_28
+    21300058: PC Computer - Heroes of Might and Magic 2 - Vampire_29
+    21300060: PC Computer - Heroes of Might and Magic 2 - Vampire_30
+    21300062: PC Computer - Heroes of Might and Magic 2 - Vampire_31
+    21300064: PC Computer - Heroes of Might and Magic 2 - Vampire_32
+    21300066: PC Computer - Heroes of Might and Magic 2 - Vampire_33
+    21300068: PC Computer - Heroes of Might and Magic 2 - Vampire_34
+    21300070: PC Computer - Heroes of Might and Magic 2 - Vampire_35
+    21300072: PC Computer - Heroes of Might and Magic 2 - Vampire_36
+    21300074: PC Computer - Heroes of Might and Magic 2 - Vampire_37
+    21300076: PC Computer - Heroes of Might and Magic 2 - Vampire_38
+    21300078: PC Computer - Heroes of Might and Magic 2 - Vampire_39
+    21300080: PC Computer - Heroes of Might and Magic 2 - Vampire_40
+    21300082: PC Computer - Heroes of Might and Magic 2 - Vampire_41
+    21300084: PC Computer - Heroes of Might and Magic 2 - Vampire_42
+    21300086: PC Computer - Heroes of Might and Magic 2 - Vampire_43
+    21300088: PC Computer - Heroes of Might and Magic 2 - Vampire_44
+    21300090: PC Computer - Heroes of Might and Magic 2 - Vampire_45
+    21300092: PC Computer - Heroes of Might and Magic 2 - Vampire_46
+    21300094: PC Computer - Heroes of Might and Magic 2 - Vampire_47
+    21300096: PC Computer - Heroes of Might and Magic 2 - Vampire_48
+    21300098: PC Computer - Heroes of Might and Magic 2 - Vampire_49
+    21300100: PC Computer - Heroes of Might and Magic 2 - Vampire_50
+    21300102: PC Computer - Heroes of Might and Magic 2 - Vampire_51
+    21300104: PC Computer - Heroes of Might and Magic 2 - Vampire_52
+    21300106: PC Computer - Heroes of Might and Magic 2 - Vampire_53
+    21300108: PC Computer - Heroes of Might and Magic 2 - Vampire_54
+    21300110: PC Computer - Heroes of Might and Magic 2 - Vampire_55
+    21300112: PC Computer - Heroes of Might and Magic 2 - Vampire_56
+    21300114: PC Computer - Heroes of Might and Magic 2 - Vampire_57
+    21300116: PC Computer - Heroes of Might and Magic 2 - Vampire_58
+    21300118: PC Computer - Heroes of Might and Magic 2 - Vampire_59
+    21300120: PC Computer - Heroes of Might and Magic 2 - Vampire_60
+    21300122: PC Computer - Heroes of Might and Magic 2 - Vampire_61
+    21300124: PC Computer - Heroes of Might and Magic 2 - Vampire_62
+    21300126: PC Computer - Heroes of Might and Magic 2 - Vampire_63
+    21300128: PC Computer - Heroes of Might and Magic 2 - Vampire_64
+    21300130: PC Computer - Heroes of Might and Magic 2 - Vampire_65
+    21300132: PC Computer - Heroes of Might and Magic 2 - Vampire_66
+    21300134: PC Computer - Heroes of Might and Magic 2 - Vampire_67
+    21300136: PC Computer - Heroes of Might and Magic 2 - Vampire_68
+    21300138: PC Computer - Heroes of Might and Magic 2 - Vampire_69
+    21300140: PC Computer - Heroes of Might and Magic 2 - Vampire_70
+    21300142: PC Computer - Heroes of Might and Magic 2 - Vampire_71
+    21300144: PC Computer - Heroes of Might and Magic 2 - Vampire_72
+    21300146: PC Computer - Heroes of Might and Magic 2 - Vampire_73
+    21300148: PC Computer - Heroes of Might and Magic 2 - Vampire_74
+    21300150: PC Computer - Heroes of Might and Magic 2 - Vampire_75
+    21300152: PC Computer - Heroes of Might and Magic 2 - Vampire_76
+    21300154: PC Computer - Heroes of Might and Magic 2 - Vampire_77
+    21300156: PC Computer - Heroes of Might and Magic 2 - Vampire_78
+    21300158: PC Computer - Heroes of Might and Magic 2 - Vampire_79
+    21300160: PC Computer - Heroes of Might and Magic 2 - Vampire_80
+    21300162: PC Computer - Heroes of Might and Magic 2 - Vampire_81
+    21300164: PC Computer - Heroes of Might and Magic 2 - Vampire_82
+    21300166: PC Computer - Heroes of Might and Magic 2 - Vampire_83
+    21300168: PC Computer - Heroes of Might and Magic 2 - Vampire_84
+    21300170: PC Computer - Heroes of Might and Magic 2 - Vampire_85
+    21300172: PC Computer - Heroes of Might and Magic 2 - Vampire_86
+    21300174: PC Computer - Heroes of Might and Magic 2 - Vampire_87
+    21300176: PC Computer - Heroes of Might and Magic 2 - Vampire_88
+    21300178: PC Computer - Heroes of Might and Magic 2 - Vampire_89
+    21300180: PC Computer - Heroes of Might and Magic 2 - Vampire_90
+    21300182: PC Computer - Heroes of Might and Magic 2 - Vampire_91
+    21300184: PC Computer - Heroes of Might and Magic 2 - Vampire_92
+    21300186: PC Computer - Heroes of Might and Magic 2 - Vampire_93
+    21300188: PC Computer - Heroes of Might and Magic 2 - Vampire_94
+    21300190: PC Computer - Heroes of Might and Magic 2 - Vampire_95
+    21300192: PC Computer - Heroes of Might and Magic 2 - Vampire_96
+    21300194: PC Computer - Heroes of Might and Magic 2 - Vampire_97
+    21300196: PC Computer - Heroes of Might and Magic 2 - Vampire_98
+    21300198: PC Computer - Heroes of Might and Magic 2 - Vampire_99
+    21300200: PC Computer - Heroes of Might and Magic 2 - Vampire_100
+    21300202: PC Computer - Heroes of Might and Magic 2 - Vampire_101
+    21300204: PC Computer - Heroes of Might and Magic 2 - Vampire_102
+    21300206: PC Computer - Heroes of Might and Magic 2 - Vampire_103
+    21300208: PC Computer - Heroes of Might and Magic 2 - Vampire_104
+    21300210: PC Computer - Heroes of Might and Magic 2 - Vampire_105
+    21300212: PC Computer - Heroes of Might and Magic 2 - Vampire_106
+    21300214: PC Computer - Heroes of Might and Magic 2 - Vampire_107
+    21300216: PC Computer - Heroes of Might and Magic 2 - Vampire_108
+    21300218: PC Computer - Heroes of Might and Magic 2 - Vampire_109
+    21300220: PC Computer - Heroes of Might and Magic 2 - Vampire_110
+    21300222: PC Computer - Heroes of Might and Magic 2 - Vampire_111
+    21300224: PC Computer - Heroes of Might and Magic 2 - Vampire_112
+    21300226: PC Computer - Heroes of Might and Magic 2 - Vampire_113
+    21300228: PC Computer - Heroes of Might and Magic 2 - Vampire_114
+    21300230: PC Computer - Heroes of Might and Magic 2 - Vampire_115
+    21300232: PC Computer - Heroes of Might and Magic 2 - Vampire_116
+    21300234: PC Computer - Heroes of Might and Magic 2 - Vampire_117
+    21300236: PC Computer - Heroes of Might and Magic 2 - Vampire_118
+    21300238: PC Computer - Heroes of Might and Magic 2 - Vampire_119
+    21300240: PC Computer - Heroes of Might and Magic 2 - Vampire_120
+    21300242: PC Computer - Heroes of Might and Magic 2 - Vampire_121
+    21300244: PC Computer - Heroes of Might and Magic 2 - Vampire_122
+    21300246: PC Computer - Heroes of Might and Magic 2 - Vampire_123
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 507
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 41.5}
+        - {x: -16, y: 28.5}
+        - {x: -16, y: -37.5}
+        - {x: -13, y: -41.5}
+        - {x: 16, y: -41.5}
+        - {x: 16, y: 27.5}
+        - {x: 8, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 507
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 41.5}
+        - {x: -16, y: -41.5}
+        - {x: 16, y: -41.5}
+        - {x: 16, y: 28.5}
+        - {x: 9, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 507
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41.5}
+        - {x: -16, y: 29.5}
+        - {x: -16, y: -37.5}
+        - {x: -13, y: -41.5}
+        - {x: 16, y: -41.5}
+        - {x: 16, y: 26.5}
+        - {x: 8, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 507
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 41.5}
+        - {x: -16, y: 28.5}
+        - {x: -16, y: -37.5}
+        - {x: -13, y: -41.5}
+        - {x: 16, y: -41.5}
+        - {x: 16, y: 27.5}
+        - {x: 8, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 558
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 558
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 558
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 508
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 508
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 508
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 409
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41.5}
+        - {x: -19, y: 26.5}
+        - {x: -19, y: -38.5}
+        - {x: -17, y: -41.5}
+        - {x: 19, y: -41.5}
+        - {x: 19, y: 19.5}
+        - {x: 7, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 409
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 41.5}
+        - {x: -16.5, y: 40.5}
+        - {x: -27.5, y: 9.5}
+        - {x: -27.5, y: -41.5}
+        - {x: 27.5, y: -41.5}
+        - {x: 27.5, y: 18.5}
+        - {x: 8.5, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 409
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 44}
+        - {x: -29, y: 44}
+        - {x: -31, y: 38}
+        - {x: -31, y: -12}
+        - {x: -15, y: -44}
+        - {x: 29, y: -44}
+        - {x: 31, y: -32}
+        - {x: 31, y: 40}
+        - {x: 24, y: 42}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 414
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 40.5}
+        - {x: -28, y: 20.5}
+        - {x: -13, y: -40.5}
+        - {x: 23, y: -40.5}
+        - {x: 28, y: -23.5}
+        - {x: 28, y: 35.5}
+        - {x: 23, y: 40.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 438
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -20, y: -5}
+        - {x: -14, y: -22}
+        - {x: 13, y: -22}
+        - {x: 20, y: -19}
+        - {x: 20, y: 19}
+        - {x: 12, y: 22}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 439
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 440
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 435
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 311
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41.5}
+        - {x: -17, y: 33.5}
+        - {x: -17, y: -41.5}
+        - {x: 17, y: -41.5}
+        - {x: 17, y: 25.5}
+        - {x: 7, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 311
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 41.5}
+        - {x: -16, y: 41.5}
+        - {x: -16, y: -40.5}
+        - {x: -15, y: -41.5}
+        - {x: 7, y: -41.5}
+        - {x: 16, y: -36.5}
+        - {x: 16, y: 38.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 311
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 42}
+        - {x: -15, y: 38}
+        - {x: -21, y: 23}
+        - {x: -21, y: -42}
+        - {x: 2, y: -42}
+        - {x: 19, y: -38}
+        - {x: 21, y: -14}
+        - {x: 21, y: 42}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 311
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 41.5}
+        - {x: -21, y: 31.5}
+        - {x: -21, y: -41.5}
+        - {x: 1, y: -41.5}
+        - {x: 12, y: -34.5}
+        - {x: 21, y: 6.5}
+        - {x: 21, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 376
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 376
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 364
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 364
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 361
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_28
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 364
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 364
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 347
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 347
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 347
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 347
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 347
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 344
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_40
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 347
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_41
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 347
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 347
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_45
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 347
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 347
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 344
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_48
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 347
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 331
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 329
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 331
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_53
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_54
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 331
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 328
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_56
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 331
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 331
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_60
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 331
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_62
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_63
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 331
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 207
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41.5}
+        - {x: -17, y: 32.5}
+        - {x: -17, y: -35.5}
+        - {x: -16, y: -41.5}
+        - {x: 17, y: -41.5}
+        - {x: 17, y: 34.5}
+        - {x: 15, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 207
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 41.5}
+        - {x: -23, y: 24.5}
+        - {x: -23, y: -38.5}
+        - {x: -22, y: -41.5}
+        - {x: 19, y: -41.5}
+        - {x: 23, y: -28.5}
+        - {x: 23, y: 33.5}
+        - {x: 16, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 207
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 41.5}
+        - {x: -22.5, y: 40.5}
+        - {x: -29.5, y: 5.5}
+        - {x: -29.5, y: -41.5}
+        - {x: 12.5, y: -41.5}
+        - {x: 29.5, y: 1.5}
+        - {x: 29.5, y: 31.5}
+        - {x: 9.5, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 207
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 41.5}
+        - {x: -23.5, y: 40.5}
+        - {x: -30.5, y: 5.5}
+        - {x: -30.5, y: -41.5}
+        - {x: 12.5, y: -41.5}
+        - {x: 30.5, y: -16.5}
+        - {x: 30.5, y: 36.5}
+        - {x: 24.5, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 269
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_69
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 266
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_70
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 266
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_71
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 269
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_72
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 269
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 269
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_74
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_75
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 213
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 251
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_77
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 248
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 251
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_79
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 251
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 251
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_81
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 235
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_82
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 235
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_83
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 235
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_84
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 232
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_86
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 235
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_87
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_88
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 235
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 233
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_90
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 232
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_91
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 235
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_92
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 235
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_93
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 235
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 235
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 235
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 216
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_98
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_99
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 219
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_100
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_101
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 216
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_102
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_103
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_104
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_105
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_106
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_107
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 219
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_108
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 219
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_109
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 105
+        width: 34
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 41.5}
+        - {x: -17, y: 30.5}
+        - {x: -17, y: -34.5}
+        - {x: -16, y: -41.5}
+        - {x: 17, y: -41.5}
+        - {x: 17, y: 35.5}
+        - {x: 7, y: 41.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_110
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 105
+        width: 35
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 41}
+        - {x: -17.5, y: -41}
+        - {x: 17.5, y: -41}
+        - {x: 17.5, y: 41}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_111
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 102
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 40.5}
+        - {x: -17.5, y: 40.5}
+        - {x: -18.5, y: 39.5}
+        - {x: -18.5, y: -40.5}
+        - {x: 17.5, y: -40.5}
+        - {x: 17.5, y: -36.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 18.5, y: 31.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_112
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 36.5}
+        - {x: -20, y: 30.5}
+        - {x: -20, y: -32.5}
+        - {x: -15, y: -36.5}
+        - {x: 17, y: -36.5}
+        - {x: 20, y: -31.5}
+        - {x: 20, y: 36.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 102
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 36}
+        - {x: -20.5, y: 25}
+        - {x: -20.5, y: -33}
+        - {x: -14.5, y: -36}
+        - {x: 18.5, y: -36}
+        - {x: 20.5, y: -28}
+        - {x: 20.5, y: 34}
+        - {x: 15.5, y: 36}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_114
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 102
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 40.5}
+        - {x: -17.5, y: 39.5}
+        - {x: -17.5, y: -34.5}
+        - {x: -11.5, y: -40.5}
+        - {x: 17.5, y: -40.5}
+        - {x: 17.5, y: 25.5}
+        - {x: 5.5, y: 40.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 102
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39.5}
+        - {x: -18, y: -23.5}
+        - {x: -14, y: -39.5}
+        - {x: 18, y: -39.5}
+        - {x: 18, y: 34.5}
+        - {x: 6, y: 39.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 39.5}
+        - {x: -18, y: -23.5}
+        - {x: -14, y: -39.5}
+        - {x: 18, y: -39.5}
+        - {x: 18, y: 34.5}
+        - {x: 6, y: 39.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_117
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 39.5}
+        - {x: -17.5, y: -37.5}
+        - {x: -12.5, y: -39.5}
+        - {x: 17.5, y: -39.5}
+        - {x: 17.5, y: 36.5}
+        - {x: 9.5, y: 39.5}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_118
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 38}
+        - {x: -15.5, y: 38}
+        - {x: -16.5, y: 36}
+        - {x: -16.5, y: -37}
+        - {x: -14.5, y: -38}
+        - {x: 16.5, y: -38}
+        - {x: 16.5, y: 12}
+        - {x: 13.5, y: 31}
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_119
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_120
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 8
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_121
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_122
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 11
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Heroes of Might and Magic 2 - Vampire_123
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 11
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
