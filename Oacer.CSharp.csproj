@@ -93,22 +93,22 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\BGMManager.cs" />
-    <Compile Include="Assets\script\GUIManager.cs" />
-    <Compile Include="Assets\script\HPControl.cs" />
-    <Compile Include="Assets\script\InputManager.cs" />
-    <Compile Include="Assets\script\LevelEdge.cs" />
-    <Compile Include="Assets\script\LevelGenerater.cs" />
-    <Compile Include="Assets\script\LevelStart.cs" />
-    <Compile Include="Assets\script\MPControl.cs" />
-    <Compile Include="Assets\script\Obstacles.cs" />
-    <Compile Include="Assets\script\PageScrollRect.cs" />
-    <Compile Include="Assets\script\PlayerMRun.cs" />
-    <Compile Include="Assets\script\PlayerManager.cs" />
-    <Compile Include="Assets\script\Sadako.cs" />
-    <Compile Include="Assets\script\SadakoManager.cs" />
-    <Compile Include="Assets\script\SaveManager.cs" />
-    <Compile Include="Assets\script\SoundManager.cs" />
+    <Compile Include="Assets\c#Script\BGMManager.cs" />
+    <Compile Include="Assets\c#Script\GUIManager.cs" />
+    <Compile Include="Assets\c#Script\HPControl.cs" />
+    <Compile Include="Assets\c#Script\InputManager.cs" />
+    <Compile Include="Assets\c#Script\LevelEdge.cs" />
+    <Compile Include="Assets\c#Script\LevelGenerater.cs" />
+    <Compile Include="Assets\c#Script\LevelStart.cs" />
+    <Compile Include="Assets\c#Script\MPControl.cs" />
+    <Compile Include="Assets\c#Script\Obstacles.cs" />
+    <Compile Include="Assets\c#Script\PageScrollRect.cs" />
+    <Compile Include="Assets\c#Script\PlayerMRun.cs" />
+    <Compile Include="Assets\c#Script\PlayerManager.cs" />
+    <Compile Include="Assets\c#Script\Sadako.cs" />
+    <Compile Include="Assets\c#Script\SadakoManager.cs" />
+    <Compile Include="Assets\c#Script\SaveManager.cs" />
+    <Compile Include="Assets\c#Script\SoundManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fantasy SFX for Particle Distort Texture effect library\readme_Fantasy SFX for Particle Distort Texture effect library.txt" />
