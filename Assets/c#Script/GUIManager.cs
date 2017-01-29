@@ -83,7 +83,7 @@ public class GUIManager : MonoBehaviour {
         Debug.Log("i");
         print(canClick);
 
-        if (canClick == false)
+        if (canClick == false&&isFinishMove==false)
             return;
         Vector3 scale = button.transform.localScale;
         button.transform.localScale = scale * 0.8f;
@@ -103,7 +103,7 @@ public class GUIManager : MonoBehaviour {
     }
     public void ButtonUp(Transform button)
     {
-        if (canClick == false)
+        if (canClick == false&&isFinishMove==false)
             return;
         Vector3 scale = button.transform.localScale;
         button.transform.localScale = scale * 1.25f;
@@ -223,6 +223,7 @@ public class GUIManager : MonoBehaviour {
     IEnumerator GMoveMenu(Transform menutransform, float endposx, float endposy, float time)
     {
         canClick = false;
+        isFinishMove = true;
         float rate = 1.0f / time;
         Vector3 startpos = menutransform.localPosition;
         Vector3 endpos = new Vector3(endposx, endposy, menutransform.localPosition.z);
@@ -234,7 +235,9 @@ public class GUIManager : MonoBehaviour {
 
             yield return 0;
         }
+        isFinishMove = false;
         canClick = true;
+
     }
 
     IEnumerator readygo()
@@ -261,6 +264,7 @@ public class GUIManager : MonoBehaviour {
     IEnumerator FinishToMain()
     {
         canClick = false;
+        
         StartCoroutine(GMoveMenu(FinishMenut.transform, FinishMenut.transform.position.x, 11f, 0.5f));
 
         float wait = 0;

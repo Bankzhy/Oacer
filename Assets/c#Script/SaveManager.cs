@@ -44,6 +44,11 @@ public static class SaveManager : object {
             PlayerPrefs.Save();
         }
     }
+    public static void Castdistance(int distance)
+    {
+        PlayerPrefs.SetInt("BestDistance", distance);
+        PlayerPrefs.Save();
+    }
     //public static void SetCrystal(int crystal)
     //{
     //    int newcryCount = crystals + crystal;

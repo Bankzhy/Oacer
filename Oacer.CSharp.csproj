@@ -103,6 +103,7 @@
     <Compile Include="Assets\c#Script\MPControl.cs" />
     <Compile Include="Assets\c#Script\Obstacles.cs" />
     <Compile Include="Assets\c#Script\PageScrollRect.cs" />
+    <Compile Include="Assets\c#Script\PlatformController.cs" />
     <Compile Include="Assets\c#Script\PlayerMRun.cs" />
     <Compile Include="Assets\c#Script\PlayerManager.cs" />
     <Compile Include="Assets\c#Script\Sadako.cs" />
