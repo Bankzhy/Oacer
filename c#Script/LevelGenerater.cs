@@ -66,7 +66,7 @@ public class LevelGenerater : MonoBehaviour {
             ScrollView();
             distance += obspeed * 1 * Time.deltaTime;
         }
-        if (distance > 100&&canGenerate==true)
+        if (distance > 100&&canGenerate==true&&ifpaused==false)
         {
             StartCoroutine("GenerateSadako");
         }
@@ -204,6 +204,7 @@ public class LevelGenerater : MonoBehaviour {
     {
         canGenerate = false;
         ifpaused = true;
+        SaveManager.SetDistance((int)distance);
 
     }
     public void resume()

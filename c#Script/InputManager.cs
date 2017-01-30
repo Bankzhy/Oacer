@@ -28,7 +28,16 @@ public class InputManager : MonoBehaviour {
         {
             touch();
         }
+  //      command();
 	}
+    void command()
+    {
+        if (Input.GetKeyDown(KeyCode.W))
+        {
+            print(SaveManager.GetBestDistance());
+            SaveManager.Castdistance(0);
+        }
+    }
     void Click()
     {
         if (Input.GetMouseButtonDown(0))

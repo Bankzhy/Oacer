@@ -166,7 +166,7 @@ public class PlayerManager : MonoBehaviour {
                 other.GetComponent<BoxCollider>().enabled = false;
                 other.GetComponent<AudioSource>().PlayOneShot(diamondsound);
                 other.transform.FindChild("ObParticle").gameObject.GetComponent<ParticleSystem>().Play();
-                MPControl.increaseMP(0.05f);
+                MPControl.increaseMP(0.005f);
                     
             }else if (other.name == "diamondred")
             {
@@ -311,9 +311,11 @@ public class PlayerManager : MonoBehaviour {
         LevelGenerater.Instance.paused();
         StopAllCoroutines();
         transform.FindChild("wizardplane").GetComponent<Animator>().enabled = false;
-        this.gameObject.transform.position = new Vector3(this.transform.position.x, -7f, this.transform.position.z);
+        this.gameObject.transform.position = new Vector3(this.transform.position.x, -8f, this.transform.position.z);
         ifpaused = true;
         GUIManager.Instance.FinishMenu();
+        SadakoManager.Instance.ResetSadako();
+        SadakoManager.Instance.StopSadako();
         BGMManager.ingame = false;
     }
     public void Revive()
@@ -322,7 +324,8 @@ public class PlayerManager : MonoBehaviour {
     }
     public void Restart()
     {
- //       SaveManager.SetCrystal(Crystals);
+        //       SaveManager.SetCrystal(Crystals);
+        Crystals = 0;
         this.gameObject.transform.position = new Vector3(-7f, 1f, this.transform.position.z);
         HPControl.restart();
         MPControl.Reset();
